@@ -1,5 +1,5 @@
 # Learning Frequency-Specific Quantization Scaling in VVC for Standard-Compliant Task-driven Image Coding
-This repo publishes the generated scaling lists in order to improve the coding perfromance of standard-compliant VVC test mdodel (VTM-10.0), when coding for Mask R-CNN as information sink. This work will be published at ICIP 2022. In total, 12 scaling lists are published derived from 4 different lambda values and 3 different noise strengths. If you are using our scaling lists, please cite our work [Fischer2022].
+This repo publishes the generated scaling lists in order to improve the coding perfromance of standard-compliant VVC test mdodel (VTM-10.0), when coding for Mask R-CNN as information sink. This work will be published at ICIP 2022. In total, 12 scaling lists are published derived from 4 different lambda values and 3 different noise strengths (iNF). If you are using our scaling lists, please cite our work [Fischer2022].
 
 ## Required Third-Party Software
 Scaling lists are designed for compressing VTM-10.0 reference software published by JVET.
